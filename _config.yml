@@ -1,28 +1,40 @@
-name: OurOffice
-favicon: null
-layout_spectrum: 0.49007410323247313
-typography_spectrum: 0.24209203734062612
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.4900741032324731
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6770677526947111
-  lightness: 0.03948428831063211
-  saturation: 0.506089128088206
-  rhythmicContrast: 0.7617223002016544
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.506089128088206
+  lightness: 0.03948428831063211
+  brandStrength: 0.4964158
+  brandColors:
+    - '#161317'
+    - '#FFFFFF'
+    - '#5C6E88'
+    - '#0103E9'
+    - '#1F5DFB'
+  rhythmicContrast: 0.7617223002016544
+typography_spectrum: 0.2420920373406261
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: OurOffice
