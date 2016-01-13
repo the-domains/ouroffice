@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[OurOffice]]></title>
         <description><![CDATA[OurOffice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ouroffice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 19:10:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 18:39:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ouroffice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a265a9d2-c5c7-48c7-b99f-c5a667681171.jpg">]]></description>
+            <link>https://thegrid.ai/ouroffice/5f80abdc-f44a-4ff5-b84e-c5fffedb5761/index.html</link>
+            <guid isPermaLink="false">5f80abdc-f44a-4ff5-b84e-c5fffedb5761</guid>
+            <pubDate>Wed, 13 Jan 2016 18:39:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We simplify your office automation!]]></title>
             <description><![CDATA[<article><h1>We simplify your office automation!</h1><p>Our core activities consist of:
@@ -17,7 +24,7 @@ This SLA will be specially adapted to your preferences, to prevent you from faci
 
 
 Additionally we cooperate with various specialists, aside from our core activities, these include App builders, programmers, marketeers for SEO (Search Engine Optimisation), online backup providers, cloud-companies and electricians, programmers etc.  This allows us to provide you with a wide range of support, preventing you from having to communicate and make arrangements with these specialists.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15840c1c7f4962b352842accac510c92f88bf6fb.jpg"></article>]]></description>
-            <link>undefinedwe-simplify-your-office-automation/index.html</link>
+            <link>https://thegrid.ai/ouroffice/we-simplify-your-office-automation/index.html</link>
             <guid isPermaLink="false">0b1aa457-ca73-4999-b157-68c18f795ad6</guid>
             <pubDate>Fri, 01 Jan 2016 19:09:45 GMT</pubDate>
         </item>
